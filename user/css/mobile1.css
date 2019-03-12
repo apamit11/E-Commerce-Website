@@ -1,0 +1,540 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+  .footer1
+  {
+  	margin-left: 10px;
+  }
+  .footer2
+  {
+  	float: right;
+  	margin-right: 10px;
+  }
+  #social {
+  	margin-left: 100px;
+  	margin-top: 5px;
+}
+.social3
+{
+	color:yellow;
+	margin-left: 45px;
+	padding-top: 15px;
+}
+#social1 {
+  margin-top: 5px;
+}
+
+.smGlobalBtn { /* global button class */
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border:2px solid #ddd; /* add border to the buttons */
+    box-shadow: 0 3px 3px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 27px;
+    -moz-border-radius:27px;
+    -webkit-border-radius:27px;
+}
+th,h5
+{
+  font-size:15px;
+}
+td
+{
+  font-size:20px;
+}
+.facebookBtn{
+    background: #4060A5;
+}
+
+.facebookBtn:before{ /* use :before to add the relevant icons */
+    font-family: "FontAwesome";
+    content: "\f09a"; /* add facebook icon */
+}
+
+.facebookBtn:hover{
+    color: #4060A5;
+    background: #fff;
+    border-color: #4060A5; /* change the border color on mouse hover */
+}
+
+/* twitter button class*/
+.twitterBtn{
+    background: #00ABE3;
+}
+
+.twitterBtn:before{
+      font-family: "FontAwesome";
+      content: "\f099"; /* add twitter icon */
+      
+}
+
+.twitterBtn:hover{
+      color: #00ABE3;
+      background: #fff;
+      border-color: #00ABE3;
+}
+
+/* google plus button class*/
+.googleplusBtn{
+    background: #e64522;
+}
+
+.googleplusBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d5"; /* add googleplus icon */
+}
+
+.googleplusBtn:hover{
+      color: #e64522;
+      background: #fff;
+      border-color: #e64522;
+}
+
+/* linkedin button class*/
+.linkedinBtn{
+    background: #0094BC;
+}
+
+.linkedinBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0e1"; /* add linkedin icon */
+}
+
+.linkedinBtn:hover{
+      color: #0094BC;
+      background: #fff;
+      border-color: #0094BC;
+} 
+  .foot
+  {
+	  height:110px;
+	  background-color:#333333;
+	  margin-top: 20px;
+  }
+  .foot1
+  {
+  	color:yellow;
+   font-size: 15px;
+  }
+  .foot2
+  {
+  	color:yellow;
+   font-size: 15px;
+   margin-left: 110px;
+  }
+  p
+  {
+  	float:right;
+  	margin-right: 10px;
+  }
+  h5
+  {
+  	color: green;
+  	font-weight: bold;
+  	margin-left: 5px;  }
+  	.book h5 a
+  	{
+  		text-decoration: none;
+  		font-weight: bold;
+  	}
+  .book
+  {
+  	height: 270px;
+  	background-color: wheat;
+  	float: left;
+  	width:200px;
+  	margin-left: 65px;
+  	margin-top:30px;
+  	border: 1px solid white;
+  	border-radius: 10px;
+  }
+  .book img
+  {
+  	width: 190px;
+  	height: 160px;
+    margin-left: 5px;
+    margin-top: 2px;  }
+  .slider
+  {
+  	margin-top: 90px;
+  }
+  
+ .carousel .item {
+  height: 350px;
+}
+
+.item img {
+   width: 100%;
+   max-height: 350px;
+}
+@media screen and (max-width: 330px) and (min-width:300px)
+{
+	.footer1
+  {
+  	margin-left: 5px;
+  }
+  .footer2
+  {
+  	float: right;
+  	margin-right: 10px;
+  }
+  #social {
+  	margin-left: 100px;
+  	margin-top: 5px;
+}
+.book
+  {
+  	height: 270px;
+  	background-color: wheat;
+  	float: left;
+  	width:200px;
+  	margin-left: 50px;
+  	margin-top:30px;
+  	border: 1px solid white;
+  	border-radius: 10px;
+  }
+.social3
+{
+	color:yellow;
+	margin-left: 20px;
+	padding-top: 9px;
+	font-size: 8px;
+}
+#social1 {
+  margin-top: 5px;
+}
+
+.smGlobalBtn { /* global button class */
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border:2px solid #ddd; /* add border to the buttons */
+    box-shadow: 0 3px 3px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 27px;
+    -moz-border-radius:27px;
+    -webkit-border-radius:27px;
+}
+	.foot
+  {
+	  height:80px;
+	  background-color:#333333;
+	  margin-top: 20px;
+  }
+  .foot1
+  {
+  	color:yellow;
+   font-size: 7px;
+   margin-left: 50px;
+  }
+  .foot2
+  {
+  	color:yellow;
+   font-size: 7px;
+   margin-left: 130px;
+  }
+  p
+  {
+  	float:right;
+  	margin-right: 10px;
+  }
+  h5
+  {
+  	color: green;
+  	font-weight: bold;
+  	margin-left: 5px;  }
+  	 .carousel .item {
+  height: 200px;
+  
+}
+
+  .slider
+  {
+    margin-top: 280px;
+  }
+}
+@media screen and (max-width: 500px) and (min-width:410px)
+{
+	.footer1
+  {
+  	margin-left: 5px;
+  }
+  .footer2
+  {
+  	float: right;
+  	margin-right: 10px;
+  }
+  #social {
+  	margin-left: 100px;
+  	margin-top: 5px;
+}
+.book
+  {
+  	height: 270px;
+  	background-color: wheat;
+  	float: left;
+  	width:200px;
+  	margin-left: 130px;
+  	margin-top:30px;
+  	border: 1px solid white;
+  	border-radius: 10px;
+  }
+.social3
+{
+	color:yellow;
+	margin-left: 20px;
+	padding-top: 9px;
+	font-size: 8px;
+}
+#social1 {
+  margin-top: 5px;
+}
+
+.smGlobalBtn { /* global button class */
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border:2px solid #ddd; /* add border to the buttons */
+    box-shadow: 0 3px 3px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 27px;
+    -moz-border-radius:27px;
+    -webkit-border-radius:27px;
+}
+	.foot
+  {
+	  height:80px;
+	  background-color:#333333;
+	  margin-top: 20px;
+  }
+  .foot1
+  {
+  	color:yellow;
+   font-size: 7px;
+   margin-left: 50px;
+  }
+  .foot2
+  {
+  	color:yellow;
+   font-size: 7px;
+   margin-left: 130px;
+  }
+  p
+  {
+  	float:right;
+  	margin-right: 10px;
+  }
+  h5
+  {
+  	color: green;
+  	font-weight: bold;
+  	margin-left: 5px;  }
+  	 .carousel .item {
+  height: 270px;
+  
+}
+
+  .slider
+  {
+    margin-top: 280px;
+  }
+}
+@media screen and (max-width: 680px) and (min-width:510px)
+{
+	.footer1
+  {
+  	margin-left: 5px;
+  }
+  .footer2
+  {
+  	float: right;
+  	margin-right: 10px;
+  }
+  #social {
+  	margin-left: 100px;
+  	margin-top: 5px;
+}
+.social3
+{
+	color:yellow;
+	margin-left: 20px;
+	padding-top: 9px;
+	font-size: 8px;
+}
+#social1 {
+  margin-top: 5px;
+}
+
+.smGlobalBtn { /* global button class */
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border:2px solid #ddd; /* add border to the buttons */
+    box-shadow: 0 3px 3px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 27px;
+    -moz-border-radius:27px;
+    -webkit-border-radius:27px;
+}
+	.foot
+  {
+	  height:80px;
+	  background-color:#333333;
+	  margin-top: 20px;
+  }
+  .foot1
+  {
+  	color:yellow;
+   font-size: 7px;
+   margin-left: 50px;
+  }
+  .foot2
+  {
+  	color:yellow;
+   font-size: 7px;
+   margin-left: 130px;
+  }
+  p
+  {
+  	float:right;
+  	margin-right: 10px;
+  }
+  h5
+  {
+  	color: green;
+  	font-weight: bold;
+  	margin-left: 5px;  }
+  	 .carousel .item {
+  height: 330px;
+  
+}
+
+  .slider
+  {
+    margin-top: 280px;
+  }
+}
+@media screen and (max-width: 400px) and (min-width:335px)
+{
+	.footer1
+  {
+  	margin-left: 10px;
+  }
+  .footer2
+  {
+  	float: right;
+  	margin-right: 10px;
+  }
+  #social {
+  	margin-left: 100px;
+  	margin-top: 5px;
+}
+.social3
+{
+	color:yellow;
+	margin-left: 37px;
+	padding-top: 9px;
+	font-size: 10px;
+}
+#social1 {
+  margin-top: 5px;
+}
+
+.smGlobalBtn { /* global button class */
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border:2px solid #ddd; /* add border to the buttons */
+    box-shadow: 0 3px 3px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 27px;
+    -moz-border-radius:27px;
+    -webkit-border-radius:27px;
+}
+	.foot
+  {
+	  height:80px;
+	  background-color:#333333;
+	  margin-top: 20px;
+  }
+  .foot1
+  {
+  	color:yellow;
+   font-size: 9px;
+  }
+  .foot2
+  {
+  	color:yellow;
+   font-size: 9px;
+   margin-left: 110px;
+  }
+  p
+  {
+  	float:right;
+  	margin-right: 10px;
+  }
+  h5
+  {
+  	color: green;
+  	font-weight: bold;
+  	margin-left: 5px;  }
+  td img
+  {
+    width: 50px;
+    height: 50px;
+  }
+  td,th,h5
+  {
+    font-size: 9px;
+  }
+
+   .carousel .item {
+  height: 200px;
+  
+}
+
+  .slider
+  {
+    margin-top: 280px;
+  }
+  
+}

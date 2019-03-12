@@ -1,0 +1,22 @@
+[26-Feb-2018 04:06:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
+[26-Feb-2018 04:06:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/csemelan/campusestore.co.in/user/order1.php on line 69
+[26-Feb-2018 04:06:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/csemelan/campusestore.co.in/user/order1.php on line 70
+[26-Feb-2018 04:07:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
+[26-Feb-2018 04:07:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
+[26-Feb-2018 04:07:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/csemelan/campusestore.co.in/user/order1.php on line 69
+[26-Feb-2018 04:07:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/csemelan/campusestore.co.in/user/order1.php on line 70
+[26-Feb-2018 04:08:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
+[26-Feb-2018 04:11:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
+[26-Feb-2018 04:11:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/csemelan/campusestore.co.in/user/ordercampus.php on line 140
+[26-Feb-2018 04:11:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/csemelan/campusestore.co.in/user/ordercampus.php on line 141
+[26-Feb-2018 04:12:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
+[26-Feb-2018 04:12:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/csemelan/campusestore.co.in/user/order1.php on line 69
+[26-Feb-2018 04:12:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/csemelan/campusestore.co.in/user/order1.php on line 70
+[26-Feb-2018 04:43:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
+[26-Feb-2018 04:43:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/csemelan/campusestore.co.in/user/order1.php on line 69
+[26-Feb-2018 04:43:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/csemelan/campusestore.co.in/user/order1.php on line 70
+[26-Feb-2018 04:43:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
+[26-Feb-2018 04:43:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
+[26-Feb-2018 04:43:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/csemelan/campusestore.co.in/user/ordercampus.php on line 140
+[26-Feb-2018 04:43:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/csemelan/campusestore.co.in/user/ordercampus.php on line 141
+[26-Feb-2018 04:44:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/csemelan/campusestore.co.in/user/connection.php on line 2
